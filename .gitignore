@@ -158,6 +158,7 @@ dmypy.json
 .pytype/
 
 # Cython debug symbols
+passwords.txt
 cython_debug/
 
 # PyCharm
