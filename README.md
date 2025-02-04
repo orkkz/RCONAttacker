@@ -9,7 +9,7 @@ RCONAttacker allows you to:
 - **Connect to an RCON server** using a password.
 - **Brute force an RCON server** using a list of passwords from a file.
 - **Check if an RCON server** is online.
-- **Flood an RCON server** with requests.
+- **Flood an RCON server** with requests. Can be used to make the console unuseable.
 - **Interactive mode** for running an interactive menu.
 
 ## Installation
